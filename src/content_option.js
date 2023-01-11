@@ -9,7 +9,7 @@ const meta = {
 const introData = {
     title: "I’m Shaion Moghimi",
     animated: [
-        "Frontend lover",
+        "Frontend specialist",
         "Javascript enthusiast",
     ],
     description: "I’m Shaion Moghimi, Software Engineer - Full stack devloper, currently working in Arizona",
