@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Smoghimi.github.io/static/css/main.a5ab4639.css",
-    "main.js": "/Smoghimi.github.io/static/js/main.e2d1ccec.js",
-    "static/js/496.63294d96.chunk.js": "/Smoghimi.github.io/static/js/496.63294d96.chunk.js",
-    "index.html": "/Smoghimi.github.io/index.html",
-    "main.a5ab4639.css.map": "/Smoghimi.github.io/static/css/main.a5ab4639.css.map",
-    "main.e2d1ccec.js.map": "/Smoghimi.github.io/static/js/main.e2d1ccec.js.map",
-    "496.63294d96.chunk.js.map": "/Smoghimi.github.io/static/js/496.63294d96.chunk.js.map"
+    "main.css": "/static/css/main.a5ab4639.css",
+    "main.js": "/static/js/main.18c86de4.js",
+    "static/js/496.63294d96.chunk.js": "/static/js/496.63294d96.chunk.js",
+    "index.html": "/index.html",
+    "main.a5ab4639.css.map": "/static/css/main.a5ab4639.css.map",
+    "main.18c86de4.js.map": "/static/js/main.18c86de4.js.map",
+    "496.63294d96.chunk.js.map": "/static/js/496.63294d96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5ab4639.css",
-    "static/js/main.e2d1ccec.js"
+    "static/js/main.18c86de4.js"
   ]
 }
