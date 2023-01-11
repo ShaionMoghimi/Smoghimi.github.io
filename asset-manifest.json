@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.a5ab4639.css",
-    "main.js": "/me/static/js/main.8537fa6b.js",
-    "static/js/496.63294d96.chunk.js": "/me/static/js/496.63294d96.chunk.js",
-    "index.html": "/me/index.html",
-    "main.a5ab4639.css.map": "/me/static/css/main.a5ab4639.css.map",
-    "main.8537fa6b.js.map": "/me/static/js/main.8537fa6b.js.map",
-    "496.63294d96.chunk.js.map": "/me/static/js/496.63294d96.chunk.js.map"
+    "main.css": "/Smoghimi.github.io/static/css/main.a5ab4639.css",
+    "main.js": "/Smoghimi.github.io/static/js/main.6194f769.js",
+    "static/js/496.63294d96.chunk.js": "/Smoghimi.github.io/static/js/496.63294d96.chunk.js",
+    "index.html": "/Smoghimi.github.io/index.html",
+    "main.a5ab4639.css.map": "/Smoghimi.github.io/static/css/main.a5ab4639.css.map",
+    "main.6194f769.js.map": "/Smoghimi.github.io/static/js/main.6194f769.js.map",
+    "496.63294d96.chunk.js.map": "/Smoghimi.github.io/static/js/496.63294d96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5ab4639.css",
-    "static/js/main.8537fa6b.js"
+    "static/js/main.6194f769.js"
   ]
 }
