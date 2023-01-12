@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./style.css";
 import { VscGrabber, VscClose } from "react-icons/vsc";
 import { Link } from "react-router-dom";
-import { logoText ,socialprofils } from "../content_option";
+import { logoText } from "../content_option";
 import Themetoggle from "../components/themetoggle";
 
 const Headermain = () => {
@@ -13,13 +13,17 @@ const Headermain = () => {
     document.body.classList.toggle("ovhidden");
   };
 
+  let homeNav;
+  if (window.location.pathname === "/")
+    homeNav = <p className="navbar-brand nav_ac">{logoText}</p>;
+  else
+    homeNav = <Link className="navbar-brand nav_ac" to="/">{logoText}</Link>
+
   return (
     <>
       <header className="fixed-top site__header">
         <div className="d-flex align-items-center justify-content-between">
-          <Link  className="navbar-brand nav_ac" to="/">
-            {logoText}
-          </Link>
+          {homeNav}
           <div className="d-flex align-items-center">
           <Themetoggle />
           <button className="menu__button  nav_ac" onClick={handleToggle}>
@@ -56,7 +60,6 @@ const Headermain = () => {
       <div className="br-bottom"></div>
       <div className="br-left"></div>
       <div className="br-right"></div>
-      
     </>
   );
 };
